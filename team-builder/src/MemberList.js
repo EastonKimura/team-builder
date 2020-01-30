@@ -3,8 +3,8 @@ import styled from 'styled-components'
 
 const Card = styled.div`
   background-color: white;
-  width: 300px;
-  height: 150px;
+  width: 340px;
+  height: 300px;
   border-radius: 15px;
   padding: 10px;
   box-shadow: 0px 1px 4px black;
@@ -17,8 +17,10 @@ const Title = styled.div`
 `
 const CardContent = styled.div`
   display: flex;
-  text-align: left;
-  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  justify-content: flex-start;
+  color: black;
   `
 const CardImage = styled.img`
   width: 100px;

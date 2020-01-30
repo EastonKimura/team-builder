@@ -1,21 +1,21 @@
 const members = [
     {
       id: 0,
-      name: 'John Smith',
-      email: 'teammember@gmail.com',
+      name: 'Thor Smith',
+      email: 'lightningGod@gmail.com',
       role: 'front-end developer'
     },
     {
       id: 1,
-      name: 'Hutch Crowley',
-      email: 'tothecoda@gmail.com',
+      name: 'Iron Man',
+      email: 'tonystark@gmail.com',
       role: 'student'
     },
-    { id: 2, name: 'Joe Johnson', email: 'Joe@gmail.com', role: 'C.E.O.' },
+    { id: 2, name: 'Loki Smith', email: 'Loki@gmail.com', role: 'C.E.O.' },
     {
       id: 3,
-      name: 'Charles Barkeley',
-      email: 'charleybarks@gmail.com',
+      name: 'Black Widow',
+      email: 'blacks@gmail.com',
       role: 'hoopster'
     }
   ]
